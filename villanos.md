@@ -4,3 +4,4 @@
 * Harley Quinn
 * Red Skull
 * Poison Evy
+* Capitan America
